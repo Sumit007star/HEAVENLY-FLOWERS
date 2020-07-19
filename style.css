@@ -8,12 +8,12 @@ body{
     text-align:center;
 		}
 .heading h2{
-		font:160px Times;
+		font:40px Times;
 		font-variant:small-caps ;
 		font-weight:800;
 		}
 .heading p{
-    font:100px cursive;}
+    font:20px cursive;}
 header ul{
     margin:10px 0px 0px 0px ;}
    
