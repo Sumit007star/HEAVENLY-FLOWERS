@@ -1,6 +1,7 @@
 body{
 		color:;
-		background-image:url(image/1.png) ;}
+		background-image:url(image/1.png);
+		background-position:center ;}
 .heading{
     color:red;
     text-align:center;
@@ -11,7 +12,7 @@ body{
 		font-weight:800;
 		}
 .heading p{
-    font:20px arial Helvatic sans-serif;}
+    font:20px cursive;}
     
     
     
