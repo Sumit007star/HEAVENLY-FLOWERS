@@ -2,18 +2,18 @@ body{
 		background-image:url(image/1.png);
 		background-size: cover;
 		border: 5px double green;
-		padding: 2px;}
+		padding: 6px;}
 .heading{
     color:red;
     text-align:center;
 		}
 .heading h2{
-		font:40px Times;
+		font:80px Times;
 		font-variant:small-caps ;
 		font-weight:800;
 		}
 .heading p{
-    font:20px cursive;}
+    font:40px cursive;}
 header ul{
     margin:10px 0px 0px 0px ;}
    
